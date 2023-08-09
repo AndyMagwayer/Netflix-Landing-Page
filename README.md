@@ -1,7 +1,7 @@
 # Netflix-Landing-Page
 
 Deploying:https://netflix-magamed-landing-page.netlify.app/
-![Image alt](https://github.com/{username}/{repository}/raw/{branch}/{path}/image.png)
+![Netflix POst BAnner](https://github.com/AndyMagwayer/Netflix-Landing-Page/blob/main/yWPONg-1280.jpg)
 ## This project was done by Magamed and all copies should be asked by me.
 Netflix is an American subscription video on-demand over-the-top streaming service owned and operated by Netflix, Inc. The service primarily distributes films and television series produced by the media company of the same name from various genres, and it is available internationally in multiple languages.[6]
 
